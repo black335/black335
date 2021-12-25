@@ -7,4 +7,4 @@
 <!---
 black335/black335 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+---https://example.com/acctmgmt/__/auth/action?mode=<action>&oobCode=<code>.300830567303-1i5fo70r8rc8499b4uih06t3uqp1no7o.apps.googleusercontent.com
